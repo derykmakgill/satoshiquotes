@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-      <script type="text/javascript" src="//cdn.fusionads.net/fusion.js?zoneid=1332&serve=C6SDP2Y&placement=wtfhtmlcss" id="_fusionads_js"></script>
 
-      <h3>Contents</h3>
+
+<h3>Contents</h3>
 
 <ul>
 <li><a href="#doctype">Declare a doctype</a></li>
