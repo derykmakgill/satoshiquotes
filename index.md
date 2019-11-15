@@ -28,7 +28,7 @@ layout: default
 
 <h3>A pre-release draft</h3>
 
-<p>Always include a doctype. I recommend the simple HTML5 doctype:</p>
+<p>The earliest draft of the white paper was called 'e-Cash' not 'Bitcoin.'</p>
 <div class="highlight">
 <p>
 You can download a pre-release draft at
