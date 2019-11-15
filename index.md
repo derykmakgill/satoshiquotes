@@ -30,8 +30,7 @@ layout: default
 
 <p>Always include a doctype. I recommend the simple HTML5 doctype:</p>
 <div class="highlight">
-<p>I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party. </p>
-— Cryptography Mailing List</div>
+<p>I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party. </p></div>
 <p><a href="http://quirks.spec.whatwg.org">Skipping the doctype can cause issues</a> with malformed tables, inputs, and more as the page will be rendered in quirks mode.</p>
 
 <p><a name="box-model-math"></a></p>
