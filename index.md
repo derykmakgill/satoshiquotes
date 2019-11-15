@@ -28,14 +28,14 @@ layout: default
 
 <h3>A pre-release draft</h3>
 
-<p>The earliest draft of the white paper was called 'e-Cash' not 'Bitcoin.'</p>
+<p>The earliest draft of the white paper was called 'Ecash' not 'Bitcoin.'</p>
 <div class="highlight">
 <p>
 You can download a pre-release draft at
 http://www.upload.ae/file/6157/ecash-pdf.html  Feel free to forward it to
   anyone else you think would be interested.</p>
 <p>Title: Electronic Cash Without a Trusted Third Party</p></div>
-<p><a href="http://quirks.spec.whatwg.org">Skipping the doctype can cause issues</a> with malformed tables, inputs, and more as the page will be rendered in quirks mode.</p>
+<p><a href="http://quirks.spec.whatwg.org">We don't have this document anymore, but it makes clear Satoshi's intentions: to create a form of electronic cash.</p>
 
 <p><a name="box-model-math"></a></p>
 
