@@ -6,7 +6,7 @@ layout: default
 <h3>Contents</h3>
 
 <ul>
-<li><a href="#doctype">Declare a doctype</a></li>
+<li><a href="#pre">A pre-release draft</a></li>
 <li><a href="#box-model-math">Box model math</a></li>
 <li><a href="#rems-mobile-safari">Rem units and Mobile Safari</a></li>
 <li><a href="#floats-first">Floats first</a></li>
@@ -24,7 +24,7 @@ layout: default
 <li><a href="#position-transforms">Fixed position and transforms</a></li>
 </ul>
 
-<p><a name="doctype"></a></p>
+<p><a name="pre"></a></p>
 
 <h3>A pre-release draft</h3>
 
