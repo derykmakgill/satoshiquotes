@@ -35,7 +35,7 @@ You can download a pre-release draft at
 http://www.upload.ae/file/6157/ecash-pdf.html  Feel free to forward it to
   anyone else you think would be interested.</p>
 <p>Title: Electronic Cash Without a Trusted Third Party</p></div>
-<p><a href="http://quirks.spec.whatwg.org">We don't have this document anymore, but it makes clear Satoshi's intentions: to create a form of electronic cash.</p>
+<p>We don't have this document anymore, but it makes clear Satoshi's intentions: to create a form of electronic cash.</p>
 
 <p><a name="box-model-math"></a></p>
 
