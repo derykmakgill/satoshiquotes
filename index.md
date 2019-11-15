@@ -29,8 +29,9 @@ layout: default
 <h3>Declare a doctype</h3>
 
 <p>Always include a doctype. I recommend the simple HTML5 doctype:</p>
-<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="cp">&lt;!DOCTYPE html&gt;</span>
-</code></pre></div>
+<div class="highlight">
+<p>'ve been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party. </p>
+— Cryptography Mailing List</div>
 <p><a href="http://quirks.spec.whatwg.org">Skipping the doctype can cause issues</a> with malformed tables, inputs, and more as the page will be rendered in quirks mode.</p>
 
 <p><a name="box-model-math"></a></p>
