@@ -42,10 +42,7 @@ http://www.upload.ae/file/6157/ecash-pdf.html  Feel free to forward it to
 <h3>Announcing Bitcoin</h3>
 <div class="highlight">
 <p>
-You can download a pre-release draft at
-http://www.upload.ae/file/6157/ecash-pdf.html  Feel free to forward it to
-  anyone else you think would be interested.</p>
-<p>Title: Electronic Cash Without a Trusted Third Party</p></div>
+I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party. </p></div>
 
 <p><a name="rems-mobile-safari"></a></p>
 
