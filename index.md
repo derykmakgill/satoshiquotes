@@ -39,9 +39,13 @@ http://www.upload.ae/file/6157/ecash-pdf.html  Feel free to forward it to
 
 <p><a name="box-model-math"></a></p>
 
-<h3>Box model math</h3>
-
-<p>Elements that have a set <code>width</code> become <em>wider</em> when they have <code>padding</code> and/or <code>border-width</code>. To avoid these problems, make use of the now common <a href="http://www.paulirish.com/2012/box-sizing-border-box-ftw/"><code>box-sizing: border-box;</code> reset</a>.</p>
+<h3>Announcing Bitcoin</h3>
+<div class="highlight">
+<p>
+You can download a pre-release draft at
+http://www.upload.ae/file/6157/ecash-pdf.html  Feel free to forward it to
+  anyone else you think would be interested.</p>
+<p>Title: Electronic Cash Without a Trusted Third Party</p></div>
 
 <p><a name="rems-mobile-safari"></a></p>
 
