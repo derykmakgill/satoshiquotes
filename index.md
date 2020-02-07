@@ -29,7 +29,7 @@ layout: default
 
 ### Looking for a citation
 
-Satoshi's first confirmed email was sent to cypherpunk and 'b-money' author Wei Dai. 
+Satoshi's first [confirmed email](https://www.gwern.net/docs/bitcoin/2008-nakamoto) was sent to cypherpunk and 'b-money' author Wei Dai. 
 
 Satoshi asks Dai for a citation for his Bitcoin whitepaper, suggesting he only found out about the ideas in 'b-money' after he was told of them by Adam Back.
 
