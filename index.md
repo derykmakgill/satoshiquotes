@@ -29,15 +29,17 @@ layout: default
 
 ### Looking for a citation
 
+Satoshi's first confirmed email was sent to cypherpunk and 'b-money' author Wei Dai. Satoshi asks Dai for a citation for his Bitcoin whitepaper, suggesting he only found out about the ideas in 'b-money' after he was told of them by Adam Back.
+
 I was very interested to read your b-money page.  I'm getting ready to
 release a paper that expands on your ideas into a complete working system.
 Adam Back (hashcash.org) noticed the similarities and pointed me to your
-site.{:.highlight}
-
-I need to find out the year of publication of your b-money page for the
+site. I need to find out the year of publication of your b-money page for the
 citation in my paper.  It'll look like:
 [1] W. Dai, "b-money," http://www.weidai.com/bmoney.txt, (2006?).
 {:.highlight}
+
+**Fun fact:** *Wei Dai himself has said that he does not think Satoshi was inspired by b-money. He thinks Bitcoin was an independent creation from previous attempts at making digital cash and that Satoshi back-credited people like him in the paper.
 
 <p><a name="pre"></a></p>
 
