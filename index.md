@@ -35,7 +35,7 @@ Satoshi asks Dai for a citation for his Bitcoin whitepaper, suggesting he only f
 
 I was very interested to read your b-money page.  I'm getting ready to
 release a paper that expands on your ideas into a complete working system.
-Adam Back (hashcash.org) noticed the similarities and pointed me to your
+Adam Back ([hashcash.org](http://hashcash.org)) noticed the similarities and pointed me to your
 site. <br><br>I need to find out the year of publication of your b-money page for the
 citation in my paper.  It'll look like:
 [1] W. Dai, "b-money," [http://www.weidai.com/bmoney.txt](http://www.weidai.com/bmoney.txt), (2006?).
