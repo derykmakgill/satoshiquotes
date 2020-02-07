@@ -39,7 +39,7 @@ citation in my paper.  It'll look like:
 [1] W. Dai, "b-money," http://www.weidai.com/bmoney.txt, (2006?).
 {:.highlight}
 
-**Fun fact:** *Wei Dai himself has said that he does not think Satoshi was inspired by b-money. He thinks Bitcoin was an independent creation from previous attempts at making digital cash and that Satoshi back-credited people like him in the paper.
+**Fun fact:** *Wei Dai himself has said that he does not think Satoshi was inspired by b-money. He thinks Bitcoin was an independent creation from previous attempts at making digital cash and that Satoshi back-credited people like him in the paper.*
 
 <p><a name="pre"></a></p>
 
