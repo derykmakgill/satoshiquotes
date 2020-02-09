@@ -29,15 +29,14 @@ citation in my paper.  It'll look like:
 <p><a name="pre"></a></p>
 
 
-<h3>A pre-release draft</h3>
-<p>The earliest draft of the white paper was called 'Ecash' not 'Bitcoin.'</p>
-<div class="highlight">
-<p>
+### A pre-release draft
+The earliest draft of the white paper was called 'Electronic Cash' not 'Bitcoin.'
+
 You can download a pre-release draft at
-http://www.upload.ae/file/6157/ecash-pdf.html  Feel free to forward it to
-  anyone else you think would be interested.</p>
-<p>Title: Electronic Cash Without a Trusted Third Party</p></div>
-<p>We don't have this document anymore, but it makes clear Satoshi's intentions: to create a form of electronic cash.</p>
+http://www.upload.ae/file/6157/ecash-pdf.html  Feel free to forward it to anyone else you think would be interested. <br><br>Title: Electronic Cash Without a Trusted Third Party
+{:.highlight}
+  
+We don't have this document anymore, but it makes clear Satoshi's intentions: to create a form of electronic cash.
 
 <p><a name="box-model-math"></a></p>
 
