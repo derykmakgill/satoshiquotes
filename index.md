@@ -33,7 +33,7 @@ citation in my paper.  It'll look like:
 The earliest draft of the white paper was called 'Electronic Cash' not 'Bitcoin.'
 
 You can download a pre-release draft at
-http://www.upload.ae/file/6157/ecash-pdf.html  Feel free to forward it to anyone else you think would be interested. <br><br>Title: Electronic Cash Without a Trusted Third Party
+<code>http://www.upload.ae/file/6157/ecash-pdf.html</code>  Feel free to forward it to anyone else you think would be interested. <br><br>Title: Electronic Cash Without a Trusted Third Party
 {:.highlight}
   
 We don't have this document anymore, but it makes clear Satoshi's intentions: to create a form of electronic cash.
