@@ -2,12 +2,6 @@
 layout: default
 ---
 
-
-### Contents
-
-- <a href="#cite">Looking for a citation</a>
-- <a href="#pre">A pre-release draft</a>
-
 <p><a name="cite"></a></p>
 
 ### Looking for a citation
