@@ -4,7 +4,7 @@ layout: default
 
 <p><a name="cite"></a></p>
 
-### Looking for a citation <small>August 22, 2008</small>
+### Looking for a citation 
 
 Satoshi's first [confirmed email](https://www.gwern.net/docs/bitcoin/2008-nakamoto) was sent to cypherpunk and 'b-money' author Wei Dai. 
 
