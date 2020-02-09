@@ -30,7 +30,7 @@ citation in my paper.  It'll look like:
 
 
 ### A pre-release draft
-The earliest draft of the white paper was called 'Electronic Cash' not 'Bitcoin.'
+The earliest draft of the white paper was called 'Electronic Cash,' not 'Bitcoin.'
 
 You can download a pre-release draft at
 <code>http://www.upload.ae/file/6157/ecash-pdf.html</code>  Feel free to forward it to anyone else you think would be interested. <br><br>Title: Electronic Cash Without a Trusted Third Party
